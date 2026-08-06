@@ -4,8 +4,7 @@
 
 <img
         src="https://file.garden/acV2MoRm9lBFibqv/saheon%20graphic.png" 
-        width=80%>
-      
+        width=75%>
 
 
 WIP
