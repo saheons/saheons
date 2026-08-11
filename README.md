@@ -11,7 +11,7 @@
  <p align="center"> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
  <p align="center">   ⌞ ɪ ᴡɪꜱʜ ᴇᴠᴇʀʏᴏɴᴇ ᴡᴏᴜʟᴅ ᴊᴜꜱᴛ ᴅɪᴇ ⌝  </a> 
  <p align="center"> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
- <p align="center"> ────────────────────────────
+ <p align="center"> 
  <p align="center">
  <p align="center">
   <br>
