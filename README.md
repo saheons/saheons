@@ -7,7 +7,10 @@
 
 <img src="https://file.garden/acV2MoRm9lBFibqv/tyujk.png" width="300" align="right">
 
- <p align="right">    ɪ ᴡɪꜱʜ ᴇᴠᴇʀʏᴏɴᴇ ᴡᴏᴜʟᴅ ᴊᴜꜱᴛ ᴅɪᴇ  </a> 
+ 
+ <p align="center"> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+ <p align="center">    ɪ ᴡɪꜱʜ ᴇᴠᴇʀʏᴏɴᴇ ᴡᴏᴜʟᴅ ᴊᴜꜱᴛ ᴅɪᴇ  </a> 
+ <p align="center"> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
   <br>
 
 
