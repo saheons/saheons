@@ -11,7 +11,7 @@
  <p align="center"> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
  <p align="center">   ⌞ ɪ ᴡɪꜱʜ ᴇᴠᴇʀʏᴏɴᴇ ᴡᴏᴜʟᴅ ᴊᴜꜱᴛ ᴅɪᴇ ⌝  </a> 
  <p align="center"> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
- <p align="center"> 
+ <p align="center"> <img src="https://file.garden/acV2MoRm9lBFibqv/ezgif-1c46130456bdce0e.gif" width="300" align="right">
  <p align="center">
  <p align="center">
   <br>
